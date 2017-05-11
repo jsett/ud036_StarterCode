@@ -1,2 +1,1 @@
-# ud036_StarterCode
-Source code for a Movie Trailer website.
+creates a web page to display the persons favorite movies and play the trailer for that movie.
